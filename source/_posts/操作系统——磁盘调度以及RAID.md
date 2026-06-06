@@ -5,7 +5,7 @@ tags: ["复习"]
 
 categories: ["计算机操作系统"]
 
-math: true
+mathjax: true
 ---
 
 
