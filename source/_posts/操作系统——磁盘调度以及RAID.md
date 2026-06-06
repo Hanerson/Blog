@@ -4,6 +4,8 @@ date: 2026-06-06 15:01:37
 tags: ["复习"]
 
 categories: ["计算机操作系统"]
+
+math: true
 ---
 
 
