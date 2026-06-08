@@ -10,6 +10,7 @@ categories: ["TileLang Puzzle"]
 - 通用计算时代（2006-2017）：NVIDIA发布GeForce 8800及CUDA，引入统一着色器架构，GPU转变为可编程并行处理器。
 - AI工厂时代（2018至今）：大模型参数量级爆发，GPU从单卡计算转向集群互联，数据中心演变为7x24小时的Token生产工厂。
 
+<!-- more -->
 
 ## CUDA生态的护城河
    - 编程抽象简化：CUDA提供了Thread、Warp、Block、Grid的四层编程抽象，使开发者无需伪装成图形操作即可编写并行程序。
