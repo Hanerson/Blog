@@ -10,7 +10,7 @@ categories: ["TileLang Puzzle"]
 
 ## GPU 存储金字塔
 
-![](../img/TileLang/Part3/1.png)
+![](../../img/TileLang/Part3/1.png)
 
 > 类比：桌面/书架/同一个房间/仓库/下楼走一趟
 
@@ -21,7 +21,7 @@ categories: ["TileLang Puzzle"]
 
 > 一个比喻：就像一个搬货单
 
-![](../img/TileLang/Part3/2.png)
+![](../../img/TileLang/Part3/2.png)
 
 ## tileLang的整体结构
 ```
@@ -44,7 +44,7 @@ tileLang/
 
 ### 总览
 
-![](../img/TileLang/Part3/3.png)
+![](../../img/TileLang/Part3/3.png)
 
 ### frontend
 

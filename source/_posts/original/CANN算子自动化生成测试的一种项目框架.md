@@ -6,7 +6,7 @@ tags: ["原创"]
 categories: ["大创"]
 ---
 
-![](../img/大创/struct.png)
+![](../../img/大创/struct.png)
 
 <!-- more -->
 
