@@ -38,7 +38,7 @@ categories: ["软件工程与计算II"]
 
 ### 一个例子
 
-![](../../img/SEII/18.png)
+![](../../../img/SEII/18.png)
 - 给出设计图，则要求写集成测试用例，Stub and　Driver
 - 给出方法的描述，则要求写单元测试用例，Mock Object
 - JUnit基本使用方法
@@ -60,7 +60,7 @@ categories: ["软件工程与计算II"]
 - 演化式生命周期模型
 
 
-![](../../img/SEII/19.png)
+![](../../../img/SEII/19.png)
 
 ### 用户文档、系统文档
 - 用户文档是指为用户编写参考指南或者操作教程，常见的有用户使用手册、联机帮助文档等
@@ -73,32 +73,32 @@ categories: ["软件工程与计算II"]
 
 ### 软件生命周期模型
 
-![](../../img/SEII/20.png)
+![](../../../img/SEII/20.png)
 
 #### 构建-修复模型
 
-![](../../img/SEII/models/1.png)
+![](../../../img/SEII/models/1.png)
 
 #### 瀑布模型
 
-![](../../img/SEII/models/2.png)
+![](../../../img/SEII/models/2.png)
 
 #### 增量迭代模型
-![](../../img/SEII/models/3.png)
+![](../../../img/SEII/models/3.png)
 
 #### 演化模型
 
-![](../../img/SEII/models/4.png)
+![](../../../img/SEII/models/4.png)
 
 #### 原型模型
 
-![](../../img/SEII/models/5.png)
+![](../../../img/SEII/models/5.png)
 
 
 #### 螺旋模型
-![](../../img/SEII/models/6.png)
-![](../../img/SEII/models/7.png)
-![](../../img/SEII/models/8.png)
+![](../../../img/SEII/models/6.png)
+![](../../../img/SEII/models/7.png)
+![](../../../img/SEII/models/8.png)
 
 > 一般要求：对给定的场景，判定使用的开发过程模型
 

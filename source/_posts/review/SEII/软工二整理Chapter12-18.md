@@ -20,11 +20,11 @@ categories: ["软件工程与计算II"]
 
 ### 详细设计当中的职责分配
 
-![](../../img/SEII/6.png)
+![](../../../img/SEII/6.png)
 
 > 续上图当中的controller部分
 
-![](../../img/SEII/7.png)
+![](../../../img/SEII/7.png)
 
 ### 协作——抽象对象之间的协作
 
@@ -34,9 +34,9 @@ categories: ["软件工程与计算II"]
 
 ### 控制的几种风格
 
-![](../../img/SEII/8.png)
+![](../../../img/SEII/8.png)
 > 抽象图示
-![](../../img/SEII/9.png)
+![](../../../img/SEII/9.png)
 
 ## Chapter 13
 
@@ -74,7 +74,7 @@ categories: ["软件工程与计算II"]
 
 #### 此处原文
 
-![](../../img/SEII/10.png)
+![](../../../img/SEII/10.png)
 
 ### 有关于"耦合""内聚"的一些例子
 
@@ -362,7 +362,7 @@ public class Rous {
 
 > 一些基本原则
 
-![](../../img/SEII/11.png)
+![](../../../img/SEII/11.png)
 
 
 ### 降低访问耦合的方法
@@ -404,7 +404,7 @@ public class Rous {
 
 > 简单示例
 
-![](../../img/SEII/12.png)
+![](../../../img/SEII/12.png)
 
 ### OCP：开闭原则
 1. 好的设计应该对“扩展”开放
@@ -419,7 +419,7 @@ public class Rous {
 
 ### 一道例题
 
-![](../../img/SEII/13.png)
+![](../../../img/SEII/13.png)
 
 
 ## Chapter 16
@@ -433,15 +433,15 @@ public class Rous {
 
 ### 策略模式
 
-![](../../img/SEII/14.png)
+![](../../../img/SEII/14.png)
 
 ### 抽象工厂模式
 
-![](../../img/SEII/15.png)
+![](../../../img/SEII/15.png)
 
 ### 单件模式
-![](../../img/SEII/16.png)
-![](../../img/SEII/17.png)
+![](../../../img/SEII/16.png)
+![](../../../img/SEII/17.png)
 
 ### 迭代器模式
 

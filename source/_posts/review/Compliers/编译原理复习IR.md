@@ -1,5 +1,5 @@
 ---
-title: 编译原理复习P2_IR
+title: 编译原理复习_Intermediate Representation
 date: 2026-06-14 19:08:29
 tags: ["复习"]
 
