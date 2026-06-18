@@ -5,6 +5,8 @@ tags: ["复习"]
 
 categories: ["软件工程与计算II"]
 ---
+> 点击 -->[这里](https://ref.hanerson.top/#/post/2026061801)<-- 查看原始复习提纲
+
 ## Chapter 12
 
 ### 详细设计的出发点以及实现目标
