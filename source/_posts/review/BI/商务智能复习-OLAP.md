@@ -1,14 +1,12 @@
 ---
 title: 商务智能复习_OLAP
-date: 2026-06-20 23:45:29
+date: 2026-06-21 00:00:29
 tags: ["复习"]
 
 categories: ["商务智能"]
 ---
 
 ## OLAP
-
-### OLAP VS　OLTP
 
 ![](../../../img/BI/5.png)
 
