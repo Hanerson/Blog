@@ -1,5 +1,5 @@
 ---
-title: 商务智能复习_OLAP
+title: 商务智能复习-OLAP
 date: 2026-06-21 00:00:29
 tags: ["复习"]
 
