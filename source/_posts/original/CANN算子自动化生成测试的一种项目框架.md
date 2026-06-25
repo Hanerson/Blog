@@ -1,9 +1,9 @@
 ---
 title: CANN算子自动化生成测试的一种项目框架
 date: 2026-06-08 18:40:27
-tags: ["原创"]
+tags: ["学术"]
 
-categories: ["大创"]
+categories: ["原创"]
 ---
 
 ![](../../img/大创/struct.png)
