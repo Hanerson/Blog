@@ -1,0 +1,14 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "hanerson.top"
+        }
+      ],
+      "destination": "/redirect.html"
+    }
+  ]
+}
