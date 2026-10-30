@@ -17,7 +17,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 # `:name` 只取文件名，文章的目录层级不会进入地址。
-url: https://blog.hanerson.top
+url: https://blog.hanerson.com
 permalink: ':year/:month/:day/:name/'
 permalink_defaults:
 pretty_urls:

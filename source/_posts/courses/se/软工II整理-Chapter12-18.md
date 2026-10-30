@@ -5,7 +5,7 @@ categories: ["课程复习", "软件工程与计算II"]
 tags: ["软件工程", "设计原则"]
 ---
 
-> 点击 -->[这里](https://ref.hanerson.top/#/post/2026061801)<-- 查看原始复习提纲
+> 点击 -->[这里](https://ref.hanerson.com/#/post/2026061801)<-- 查看原始复习提纲
 
 ## Chapter 12
 
@@ -338,7 +338,7 @@ public class Rous {
 ```
 
 
-#### 点击 -->[这里](https://ref.hanerson.top/#/post/20260605)<-- 查看原始内容
+#### 点击 -->[这里](https://ref.hanerson.com/#/post/20260605)<-- 查看原始内容
 
 
 ### 信息隐藏

@@ -157,8 +157,9 @@ features:
       js: https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
 
 canonical:
-  host: blog.hanerson.top
+  host: blog.hanerson.com
   allowed_hosts:
+    - blog.hanerson.top
     - localhost
     - 127.0.0.1
 

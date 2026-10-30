@@ -1,6 +1,6 @@
 # Hanerson 的学术车辙
 
-个人博客源码：Hexo 8 + [Stellar 2](https://xaoxuu.com/wiki/stellar/)，发布在 <https://blog.hanerson.top>。
+个人博客源码：Hexo 8 + [Stellar 2](https://xaoxuu.com/wiki/stellar/)，发布在 <https://blog.hanerson.com>。
 
 ## 目录结构
 

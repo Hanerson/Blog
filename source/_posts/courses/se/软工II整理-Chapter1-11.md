@@ -6,7 +6,7 @@ tags: ["软件工程", "需求分析", "UML"]
 ---
 
 
-> 点击 -->[这里](https://ref.hanerson.top/#/post/2026061801)<-- 查看原始复习提纲
+> 点击 -->[这里](https://ref.hanerson.com/#/post/2026061801)<-- 查看原始复习提纲
 
 ## Chapter 1 & 2
 

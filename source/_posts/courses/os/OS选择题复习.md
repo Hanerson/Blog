@@ -6,4 +6,4 @@ tags: ["操作系统", "习题"]
 ---
 
 
-有关于2026年春季操作系统课程的选择题复习，已经移动到-->[这里](https://tools.hanerson.top/tools/flashcard/OSOptions)<--
+有关于2026年春季操作系统课程的选择题复习，已经移动到-->[这里](https://tools.hanerson.com/tools/flashcard/OSOptions)<--
