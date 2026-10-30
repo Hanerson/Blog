@@ -16,8 +16,8 @@ leftbar:
     image:
       src: /img/avatar.png
       variant: avatar
-    name: Hanerson 的学术车辙
-    tagline: 观察 · 描述 · 记录
+    name: Hanerson
+    tagline: stay thirst, stay young.
     href: /
   menu_columns: 1
   menu:
