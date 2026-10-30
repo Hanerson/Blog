@@ -1,0 +1,169 @@
+# Stellar 主题配置（只写需要覆盖的字段，其余使用主题默认值）
+# 完整字段说明：https://xaoxuu.com/wiki/stellar/reference/theme/
+
+# -----------------------------------------------------------------------------
+# 布局
+# -----------------------------------------------------------------------------
+
+topbar:
+  enabled: false
+
+leftbar:
+  enabled: true
+  default_state: expanded
+  brand:
+    search: true
+    image:
+      src: /img/avatar.png
+      variant: avatar
+    name: Hanerson 的学术车辙
+    tagline: 观察 · 描述 · 记录
+    href: /
+  menu_columns: 1
+  menu:
+    - id: post
+      title: 文章
+      icon: default:documents
+      url: /
+    - id: categories
+      title: 分类
+      icon: default:category
+      url: /categories/
+    - id: tags
+      title: 标签
+      icon: default:hashtag
+      url: /tags/
+    - id: archives
+      title: 归档
+      icon: default:calendar
+      url: /archives/
+    - id: about
+      title: 关于
+      icon: default:profile
+      url: /about/
+  widgets: []
+  footer:
+    actions:
+      - type: link
+        icon: default:github
+        title: GitHub
+        url: https://github.com/hanerson
+      - type: link
+        icon: share:email
+        title: 邮箱
+        url: mailto:hanersons@qq.com
+      - type: button
+        icon: default:theme
+        title: 切换深浅色
+        onclick: "window.setColorScheme(document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark')"
+
+rightbar:
+  enabled: true
+  widgets: []
+
+footer:
+  sitemap:
+    - title: 内容
+      items:
+        - '[近期文章](/)'
+        - '[分类](/categories/)'
+        - '[标签](/tags/)'
+        - '[归档](/archives/)'
+    - title: 项目
+      items:
+        - '[配套小工具](https://tools.hanerson.com)'
+        - '[原始材料](https://ref.hanerson.com)'
+        - '[互动叙事](https://character.hanerson.com)'
+    - title: 关于
+      items:
+        - '[关于我](/about/)'
+        - '[GitHub](https://github.com/hanerson)'
+        - '[邮箱](mailto:hanersons@qq.com)'
+  content: |
+    本站由 Hanerson 使用 [Hexo](https://hexo.io/) 与 [{theme.name} {theme.version}]({theme.tree}) 搭建。
+    除特别声明外，文章均采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议，转载请注明出处。
+
+profiles:
+  home:
+    active_menu: post
+    leftbar:
+      widgets: []
+  post:
+    active_menu: post
+    leftbar:
+      widgets: []
+    rightbar:
+      widgets:
+        - toc
+  # 分类 / 标签 / 归档由主题生成，统一不高亮主菜单。
+  blog_index:
+    active_menu: null
+  page:
+    leftbar:
+      widgets: []
+    rightbar:
+      widgets: []
+
+# -----------------------------------------------------------------------------
+# 内容
+# -----------------------------------------------------------------------------
+
+article:
+  style: tech
+  listing:
+    card_layout: classic
+    cover_ratio: 2
+    excerpt_length: 140
+    show_tags: false
+  related_posts_limit: 0
+  footer:
+    license: 本文采用 [署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议，转载请注明出处。
+    share:
+      - qrcode
+      - weibo
+      - email
+    show_tags: true
+
+# -----------------------------------------------------------------------------
+# 外观
+# -----------------------------------------------------------------------------
+
+appearance:
+  preset: card
+  color_scheme: auto
+  colors:
+    primary: '#2f7f74'
+    accent: '#c96f4a'
+
+# -----------------------------------------------------------------------------
+# 功能
+# -----------------------------------------------------------------------------
+
+search:
+  provider: local
+  local:
+    scope: all
+    include_content: true
+
+features:
+  color_scheme_switch:
+    enabled: true
+  lazy_loading:
+    transition: fade
+    auto_aspect_ratio: true
+  math:
+    provider: null
+    mathjax:
+      js: https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
+
+canonical:
+  host: blog.hanerson.top
+  allowed_hosts:
+    - localhost
+    - 127.0.0.1
+
+preconnect:
+  - https://gcore.jsdelivr.net
+
+inject:
+  head_end: '<link rel="icon" href="/img/favicon.svg" type="image/svg+xml">'

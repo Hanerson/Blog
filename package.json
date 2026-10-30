@@ -6,6 +6,7 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
+    "doctor": "hexo stellar doctor",
     "server": "hexo server"
   },
   "hexo": {
@@ -21,8 +22,6 @@
     "hexo-renderer-marked": "^7.0.0",
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
-    "hexo-theme-landscape": "^1.0.0",
-    "hexo-theme-next": "^8.27.0",
-    "hexo-word-counter": "^0.2.2"
+    "hexo-theme-stellar": "^2.0.0"
   }
 }

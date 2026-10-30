@@ -6,3 +6,5 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
+# Stellar 的图片元数据缓存（构建时自动生成）
+source/_data/caches/

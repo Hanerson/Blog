@@ -1,6 +1,9 @@
 ---
 title: 关于我
 date: 2026-06-03 16:00:00
+active_menu: about
+comments:
+  enabled: false
 ---
 
 # Fu Hao (Hanerson)
